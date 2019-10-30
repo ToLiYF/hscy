@@ -47,6 +47,7 @@ public class ApiLoginController {
     @ApiOperation("退出")
     public ResultMap logout(@ApiIgnore @RequestAttribute("userId") long userId){
         tokenService.expireToken(userId);
+        System.out.println("test11");
         return ResultMap.ok();
     }
 }
