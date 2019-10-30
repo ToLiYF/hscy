@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hscy-api/hscy-api.iml" filepath="$PROJECT_DIR$/hscy-api/hscy-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hscy-common/hscy-common.iml" filepath="$PROJECT_DIR$/hscy-common/hscy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hscy-dynamic-datasource/hscy-dynamic-datasource.iml" filepath="$PROJECT_DIR$/hscy-dynamic-datasource/hscy-dynamic-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hscy-template.iml" filepath="$PROJECT_DIR$/hscy-template.iml" />
+    </modules>
+  </component>
+</project>
